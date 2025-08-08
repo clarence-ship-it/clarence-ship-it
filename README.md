@@ -1,7 +1,7 @@
 ![Clarence Banner](https://github.com/docjom1/assets/blob/main/banner.gif?raw=true)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=💻+Rence+%7C+Web+Developer+%26+System+Architect"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=Rence+%7C+Web+Developer+%26+System+Architect"/>
 </h1>
 
 <p align="center">
