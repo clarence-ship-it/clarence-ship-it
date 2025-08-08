@@ -1,7 +1,7 @@
-![JOMZ Banner](https://github.com/docjom1/assets/blob/main/banner.gif?raw=true)
+![Clarence Banner](https://github.com/docjom1/assets/blob/main/banner.gif?raw=true)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=%F0%9F%A7%A0+Rence+%7C+AI+Alpha+Chupapi;WEB+Developer+%26+System+Builder"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&width=600&lines=💻+Rence+%7C+Web+Developer+%26+System+Architect"/>
 </h1>
 
 <p align="center">
@@ -10,56 +10,42 @@
 
 ---
 
-## 🔥 I don’t just build websites — I command AI to do it.
+## 💡 About Me
 
-Strategic Systems. Automated Workflows. Prompt-Built Everything.
+I'm a web developer from the Philippines with a strong focus on system architecture, automation, and intelligent development workflows.
 
----
+With expertise in both frontend and backend technologies, I build scalable, maintainable, and automated systems — from modern websites and dashboards to marketing integrations and workflow automations.
 
-## 👨‍💻 About Me
-
-AI-assisted web strategist from 🇵🇭 Philippines using ChatGPT, Claude, Gemini, Abacus.AI and more to design, build, and automate smart growth systems. 
-
-🔧 Architect of full-stack apps, Meta Ads trackers, ClickUp workflows, AI chat agents, and more — all powered by prompt engineering.
-
-💡 *Soon-to-be CEO & Founder of* MOJXAI — a platform that simplifies personal life, work, and business through AI automation.
+I leverage AI and modern web technologies to deliver high-performance, reliable, and future-proof solutions.
 
 ---
 
-## 🧠 What I Use (and Command)
+## 🧰 Tech Stack
 
-### 🤖 AI Assistants & LLMs
-ChatGPT • Claude • Gemini • Abacus.AI • AutoGPT • Command-R
+### 💻 Web Development
+HTML • CSS • JavaScript • PHP • Python • Node.js  
+Vue.js • React • Bootstrap • Tailwind CSS
 
-### 📣 Ad Automation & Marketing
-Meta Ads API • Google Ads • TikTok Ads • GA4 • FB CAPI • Tag Manager
+### 🛠 Tools & Environments
+VS Code • Git • GitHub • Figma • Visual Studio
 
-### ⚙️ Workflow & Automation
-ClickUp • Zapier • Pabbly • Make.com • n8n • Google Sheets • Google Apps Script
+### 🔗 Backend & Databases
+MySQL • Google Apps Script • REST APIs • .NET
 
-### 📊 Dashboards & Data
-Looker Studio • Data Studio • GA4 • Google Cloud Functions • BigQuery
+### 🚀 Automation & Integrations
+ClickUp • Zapier • Pabbly • Make.com • Google Sheets • Tag Manager
 
-### 🧩 Code & Backend Systems
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,vue,react,git,vscode,figma,php,dotnet,visualstudio,github,mysql,bootstrap,python,nodejs"/>
-</p>
+### 📈 Analytics & Marketing Tools
+Google Analytics 4 • Meta Ads • TikTok Ads • FB CAPI • Looker Studio
 
-### 🚀 SEO, Scaling & Deployment
-Schema Markup • GitHub Pages • Blogger • Cloudflare • Proxies • VPNs • Multi-BM Ops
-
----
-
-## 🛠 Tools I Work On
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css,vue,react,vscode,git,figma,php,dotnet,nodejs,bootstrap,github,mysql,python"/>
-</p>
+### 🌐 Deployment & DevOps
+GitHub Pages • Blogger • Cloudflare • Proxies • Multi-BM Ops
 
 ---
 
-## 📈 GitHub Metrics (Live & Animated)
+## 📊 GitHub Stats
 
-![JOMZ GitHub Stats](https://github-readme-stats.vercel.app/api?username=docjom1&show_icons=true&theme=tokyonight)
+![Clarence GitHub Stats](https://github-readme-stats.vercel.app/api?username=docjom1&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=docjom1&theme=tokyonight)
 
@@ -69,58 +55,51 @@ Schema Markup • GitHub Pages • Blogger • Cloudflare • Proxies • VPNs �
 
 ---
 
-## 🚀 Projects
-- [Finance Dashboard](https://github.com/docjom1/Finance-Dashboard)
-- [Slotking](https://github.com/docjom1/Slotking)
-- [lv33global](https://github.com/docjom1/lv33global)
-- [Xhadeflex](https://github.com/docjom1/Xhadeflex)
+## 🧪 Projects
+
+- [Finance Dashboard](https://github.com/docjom1/Finance-Dashboard) – A smart analytics dashboard for managing finances
+- [Slotking](https://github.com/docjom1/Slotking) – Online slot-based system with UI/UX components
+- [lv33global](https://github.com/docjom1/lv33global) – Web development project with modern stack
+- [Xhadeflex](https://github.com/docjom1/Xhadeflex) – Modular system with integrated backend features
 
 ---
 
-## 💼 Digital Marketing & Tech Lead
+## 👨‍💼 Professional Summary
 
-I build full-stack systems, ads automation, and AI-powered workflows for teams and brands.
+As a digital systems developer, I specialize in:
 
-> Tools Used: ChatGPT, ClickUp, Google Ads, Blogger
+- Full-stack website and application development
+- Marketing system automation
+- Data integration and analytics
+- AI-assisted productivity workflows
 
----
+I apply structured coding practices and prompt engineering techniques to enhance delivery speed, maintainability, and user experience.
 
-## 🌟 Featured Section (LinkedIn Taglish Post)
-
-> 🔥 Ready to command the algorithm?
->
-> AI na ang kalaban ngayon. 
->
-> Hindi lang ako nagde-develop. Nag-uutos ako sa AI para magtrabaho.
->
-> Strategic systems, automated workflows, and powerful prompts — all under my command.
->
-> 📅 Check my GitHub Profile: [@docjom1](https://github.com/docjom1)
->
-> #AIAlphaCommander #AIPromptEngineer #DigitalStrategist
+> Core Focus: **Efficiency through automation. Stability through structure. Growth through clean code.**
 
 ---
 
-## 🎯 Vision
+## 🌍 Vision
 
-MOJXAI will become the go-to AI-powered system for Filipinos around the world —
-enabling smart, simple, automated lives across work, business, and daily personal tasks.
-
-Watch me build the future. One command at a time.
+My upcoming venture, **MOJXAI**, aims to revolutionize personal and professional workflows by introducing AI-powered systems tailored for the modern Filipino — enabling streamlined living through automation, integration, and smart assistance.
 
 ---
 
-## ⚡️ Bonus: Want Your GitHub to Look Like This?
-DM me. I do personal branding for tech devs.
+## 🧩 Want a Custom GitHub Profile Like This?
+
+I offer personal branding setup for developers and freelancers.
+
+📬 Send a message or connect with me on GitHub: [@docjom1](https://github.com/docjom1)
 
 ---
 
-## 🧬 Extras Coming Soon:
-- Lottie animations
-- AI-generated SVG headers
-- Hover-triggered glow cards
-- Typing text banners
+## 🔭 Coming Soon
+
+- Interactive SVG banners
+- Lottie animations for sections
+- Interactive components with hover effects
+- AI-assisted resume and project documentation
 
 ---
 
-> ✨ *"First you automate your systems. Then you automate your success."*
+> ✨ *"Automate the process. Accelerate the outcome."*
